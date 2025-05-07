@@ -46,7 +46,7 @@ To run this project locally:
 5.Open your browser and visit:
     http://localhost:8080
 
-##Configuration (Environmental variables)
+## Configuration (Environmental variables)
 
 -CLOUD_NAME
 -CLOUD_API_KEY
@@ -55,7 +55,7 @@ To run this project locally:
 -ATLASDB_URL
 -SECRET
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 -Fork the project
@@ -64,7 +64,7 @@ Contributions are welcome! Please follow these steps:
 -Push to the branch
 -Open a pull request
 
-##Contact
+## Contact
 
 For questions or feedback, please contact:
 Mohammed Junaid
