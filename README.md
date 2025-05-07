@@ -46,8 +46,8 @@ To run this project locally:
 5.Open your browser and visit:
     http://localhost:8080
 
-##Configuration
-Environmental variables
+##Configuration (Environmental variables)
+
 -CLOUD_NAME
 -CLOUD_API_KEY
 -CLOUD_API_SECRET
@@ -56,6 +56,7 @@ Environmental variables
 -SECRET
 
 ##Contributing
+
 Contributions are welcome! Please follow these steps:
 -Fork the project
 -Create your feature branch
@@ -64,6 +65,7 @@ Contributions are welcome! Please follow these steps:
 -Open a pull request
 
 ##Contact
+
 For questions or feedback, please contact:
 Mohammed Junaid
 Email: mohammedjunaid11223@gmail.com
