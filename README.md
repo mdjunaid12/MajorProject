@@ -4,7 +4,7 @@ A web application for browsing and managing listings. This project serves as a m
 
 ## Live Demo
 
-👉 [View Live Demo](https://majorproject-hqmt.onrender.com/listings)
+👉 [View Live Demo] (https://majorproject-hqmt.onrender.com/listings)
 
 ## Features
 
@@ -37,12 +37,16 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/mdjunaid12/MajorProject]
+   
 2.Install dependencies:
     npm install
+    
 3.Set up environment variables:
-    Create a .env file based on .env.example    
+    Create a .env file based on .env.example
+    
 4.Start the development server:
     npm start
+    
 5.Open your browser and visit:
     http://localhost:8080
 
